@@ -3,6 +3,7 @@ using UnityEngine;
 
 namespace Components
 {
+    //Component
     [UsedImplicitly]
     public class MoveComponent
     {
